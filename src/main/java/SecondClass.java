@@ -3,4 +3,5 @@
  */
 public class SecondClass {
     private String string;
+    private String secondString;
 }
