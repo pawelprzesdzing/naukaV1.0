@@ -5,4 +5,5 @@ public class SecondClass {
     private String string;
     private String secondString;
     private String thirdString;
+    private String fourthString;
 }
